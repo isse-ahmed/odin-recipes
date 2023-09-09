@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: #ccc;
+}
+
+/* Styling Headings */
+
+h1 {
+  margin: auto;
+  font-size: 28px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-left: 25px;
+  padding-bottom: 15px;
+}
+
+/* Styling Gif */
+
+.csm-gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+/* Styling List */
+
+ul {
+  margin-left: 65px;
+}
+
+li {
+  margin-bottom: 8px;
+}
