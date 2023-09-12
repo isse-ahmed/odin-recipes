@@ -12,13 +12,13 @@ h1 {
   margin: auto;
   font-size: 28px;
   text-align: center;
-  padding-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 h2 {
   font-size: 20px;
   margin-left: 25px;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 /* Styling Gif */
