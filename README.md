@@ -1,7 +1,7 @@
-# Basic Recipe Website
-
-## First Odin Project
+# The Chainsaw Man Cookbook
 
 ### Bult with
 
-    - Pure HTML
+    - Basic HTML and CSS
+
+#### First Project of The Odin Foundations Course
